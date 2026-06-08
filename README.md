@@ -47,11 +47,7 @@ I enjoy diving into new technologies, solving challenging engineering problems, 
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aryan-R-Mehta&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-R-Mehta&theme=tokyonight" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-R-Mehta&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -61,5 +57,4 @@ I enjoy diving into new technologies, solving challenging engineering problems, 
 <p align="left">
 <a href="https://linkedin.com/in/aryan-mehta-097140264"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:aryanmehta2649@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://github.com/Aryan-R-Mehta"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
