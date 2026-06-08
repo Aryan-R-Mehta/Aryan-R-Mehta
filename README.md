@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Mehta</h1>
 
----
-
 ## 💫 About Me
 
 I'm a Full-Stack Developer who loves building scalable, real-world applications and writing code that actually works in production.
