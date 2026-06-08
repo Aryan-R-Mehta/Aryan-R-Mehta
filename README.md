@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan Mehta</h1>
-<h3 align="center">Full-Stack Developer & ERP Engineer</h3>
 
 ---
 
 ## 💫 About Me
 
-Hi, I'm Aryan — a Software Engineer at Odoo India, passionate about building scalable full-stack applications and robust ERP solutions.
-
-I enjoy working across the stack — from optimizing backend performance to crafting clean user interfaces. Always exploring System Design, AI/ML, and Distributed Systems.
+I'm a Full-Stack Developer who loves building scalable, real-world applications and writing code that actually works in production.
+I enjoy diving into new technologies, solving challenging engineering problems, and turning ideas into polished, functional products.
 
 ---
 
